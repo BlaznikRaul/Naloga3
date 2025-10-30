@@ -35,4 +35,4 @@
 - slike za popestritev uporabniške izkušnje
 - zanimivo ozadje
 
-[Gimnazija in srednja šola za farmacijo in kemijo Ruše](https://gimnazija-ruse.si/)
+Gimnazija in srednja šola za farmacijo in kemijo Ruše(https://gimnazija-ruse.si/)
