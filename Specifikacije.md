@@ -23,7 +23,7 @@
 4. Nakup izdelkov *Uporabnik spletne strani lahko kupi izdelke s klikum na gumb kupi nato bo preusmerjen na vpis podatkov za nakup in plačilo* :heavy_dollar_sign:
 
 
-
+HSKJGBDJSJBDJ
 
 
 
